@@ -25,7 +25,7 @@ public class SqAreaTest {
     }
 
     @Test
-    public void testSquare3() {
+    public void square3() {
         int p = 6;
         int k = 2;
         double expected = 2.0;
