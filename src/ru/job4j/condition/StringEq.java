@@ -7,7 +7,6 @@ public class StringEq {
         return access;
     }
 
-
     public static void main(String[] args) {
         String your = "your_name";
         boolean userHasAccess = StringEq.check(your);
